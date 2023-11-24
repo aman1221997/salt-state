@@ -1,0 +1,2 @@
+# salt-state
+Salt Project
